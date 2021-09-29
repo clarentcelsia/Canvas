@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/rectangle"
+        android:title="@string/rectangle"/>
+
+    <item
+        android:id="@+id/square"
+        android:title="@string/square"/>
+
+    <item
+        android:id="@+id/line"
+        android:title="@string/line"/>
+
+    <item
+        android:id="@+id/circle"
+        android:title="@string/circle"/>
+
+    <item
+        android:id="@+id/triangle"
+        android:title="@string/triangle"/>
+
+    <item
+        android:id="@+id/freeform"
+        android:title="@string/freeform"/>
+
+    <item
+        android:id="@+id/clear"
+        android:title="@string/clear"/>
+</menu>
